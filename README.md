@@ -52,7 +52,7 @@
 - [02-提示和技巧](./07-附录/02-提示和技巧.md) — 常见问题与解决方案
 
 ### [08-常用场景实战](./08-常用场景实战/) 🆕
-- [01-REST API接口测试](./08-常用场景实战/01-REST API接口测试.md) — GET/POST/PUT/DELETE/PATCH、JSON请求体、路径参数 ★☆☆☆☆
+- [01-REST API接口测试](./08-常用场景实战/01-REST-API接口测试.md) — GET/POST/PUT/DELETE/PATCH、JSON请求体、路径参数 ★☆☆☆☆
 - [02-参数化与数据驱动测试](./08-常用场景实战/02-参数化与数据驱动测试.md) — CSV Data Set Config、4种共享模式、Counter、命令行传参 ★★☆☆☆
 - [03-认证与授权场景](./08-常用场景实战/03-认证与授权场景.md) — Basic Auth、Bearer Token、OAuth 2.0、Cookie/Session、CSRF Token ★★★☆☆
 - [04-动态关联与提取](./08-常用场景实战/04-动态关联与提取.md) — 正则/JSONPath/JMESPath/CSS/边界提取、多级关联链 ★★★☆☆
